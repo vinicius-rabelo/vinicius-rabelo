@@ -1,6 +1,11 @@
 <h2>Olá, meu nome é Vinícius Rabelo</h2>
 <h4>Front-End Developer</h4>
 
+<div>
+  <p>👨🏻‍🎓 Estudante - Sistemas de Informação na UNA</p>
+  <p>📫 Contate-me no email: viniciussrabelo2017@gmail.com</p>
+</div>
+
 <h2>💻 Tecnologias e Ferramentas:</h2>
 <div>
   <p align="left">
